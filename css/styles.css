@@ -1,0 +1,65 @@
+body{
+  background-color: white;
+}
+
+.oscurecer {
+  background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.9),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../img/programando.jpg');
+min-height: 65rem;
+width: 100%;
+
+}
+
+
+.butNav{
+  width: 4rem;
+}
+
+ul img{
+  width:30%;
+}
+.modal-header{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+.redes a{
+  color:white;
+}
+.repo{
+  color: lightblue;
+ font-size: 2rem;
+ font-family: 'Big Shoulders Stencil Text', cursive;
+}
+.card img{
+  min-height:10rem;
+}
+.card{
+  min-height: 20rem;
+}
+.navbar{
+  background: transparent !important;
+}
+
+h1{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+ .carousel img{
+   opacity: 0.7;
+ }
+
+ 
+
+ .carousel .item{
+   width:70%;
+ }
+
+ button{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  width: 10rem;
+ }
+
+ 
